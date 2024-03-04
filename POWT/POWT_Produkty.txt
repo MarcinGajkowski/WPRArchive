@@ -1,0 +1,5 @@
+Koszulka,5,65.50
+Spodnie,2,75.90
+Szorty,4,55.80
+Baseballówka,8,35.50
+Rękawiczki,10,25.00

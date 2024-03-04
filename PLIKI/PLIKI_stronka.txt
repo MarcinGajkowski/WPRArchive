@@ -1,0 +1,4 @@
+Title,link,blurb
+Strona główna,glowna,Witamy na naszej stronie!
+O nas,onas,To dzięki tym osobom tu jesteś: 
+FAQ,pytania,Często zadawane pytania: 
